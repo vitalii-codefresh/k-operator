@@ -1,0 +1,14 @@
+one.txt
+  h_7ba93f5c56396c 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2c021b43f327776c00561bf43213e2a2b7614b58",
+  "prompts": {},
+  "humans": {
+    "h_7ba93f5c56396c": {
+      "author": "vitalii-codefresh <159242695+vitalii-codefresh@users.noreply.github.com>"
+    }
+  }
+}
