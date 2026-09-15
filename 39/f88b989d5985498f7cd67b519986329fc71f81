@@ -1,0 +1,19 @@
+second.txt
+  s_fdb9e620b03939::t_e13dd54176179f 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "39f88b989d5985498f7cd67b519986329fc71f81",
+  "prompts": {},
+  "sessions": {
+    "s_fdb9e620b03939": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "76237233-a38f-4d9c-8bed-11389cb6eace",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "vitalii-codefresh <159242695+vitalii-codefresh@users.noreply.github.com>"
+    }
+  }
+}
